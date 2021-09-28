@@ -35,6 +35,10 @@ body {
   padding: 2rem;
 }
 
+.nav-bar > a:hover {
+  border-bottom: 2px solid white;
+}
+
 .a-links {
   text-decoration: none;
   font-size: 1.2rem;
@@ -90,8 +94,15 @@ body {
 }
 
 .btn {
+  margin-top: 2.5rem;
   padding: 0.5rem 2rem;
   border: 2px solid white;
+  /* transition: 0.3s ease all; */
+}
+
+.btn:hover {
+  background-color: white;
+  color: black;
 }
 
 .btns {

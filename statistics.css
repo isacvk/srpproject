@@ -1,0 +1,17 @@
+.content-statistics {
+  text-align: center;
+}
+
+.stat-heading-title {
+  font-size: 2.6rem;
+  margin-top: 2rem;
+}
+
+.stat-heading {
+  font-size: 2.4rem;
+  /* opacity: 0.8; */
+}
+
+.stat-img > * {
+  margin-top: 3rem;
+}
